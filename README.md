@@ -7,4 +7,4 @@
 
 ----------------------
 # GColab
-40 CPU's👉 [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/a2nk/841353d6fe8efa8db345b338e4685b75/xrdp-with-40cpu.ipynb)
+35 GB RAM & 40 CPU's👉 [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/a2nk/841353d6fe8efa8db345b338e4685b75/xrdp-with-40cpu.ipynb)
