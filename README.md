@@ -3,6 +3,7 @@
 
 51 GB RAM & 8 CPU's👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Faanksatriani%2Fmybinder.git/main)
 
+Other 👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/v2/git/https%3A%2F%2Fgithub.com%2Ffoxytouxxx%2Ffreeroot.git%2Fmain)
 
 ----------------------
 # GColab
